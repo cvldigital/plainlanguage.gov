@@ -1,6 +1,6 @@
 ---
 title: Handbooks
-permalink: /examples/handbooks/
+permalink: "/examples/handbooks/"
 sidenav: examples
 layout: list
 ---

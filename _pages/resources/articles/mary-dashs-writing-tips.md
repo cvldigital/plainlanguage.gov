@@ -1,16 +1,16 @@
 ---
 title: Mary Dash’s Writing Tips
-permalink: /resources/articles/dash-writing-tips/
+permalink: "/resources/articles/dash-writing-tips/"
 sidenav: resources
 redirect_from:
-  - /howto/quickreference/dash.cfm
-  - /howto/quickreference/dash/dashfederal.cfm
-  - /howto/quickreference/dash/dashprepositions.cfm
-  - /howto/quickreference/dash/dashcompound.cfm
-  - /howto/quickreference/dash/dashproblem.cfm
-  - /howto/quickreference/dash/dashpronouns.cfm
-  - /howto/quickreference/dash/dashactive.cfm
-  - /howto/quickreference/dash/dashgobbledygook.cfm
+- "/howto/quickreference/dash.cfm"
+- "/howto/quickreference/dash/dashfederal.cfm"
+- "/howto/quickreference/dash/dashprepositions.cfm"
+- "/howto/quickreference/dash/dashcompound.cfm"
+- "/howto/quickreference/dash/dashproblem.cfm"
+- "/howto/quickreference/dash/dashpronouns.cfm"
+- "/howto/quickreference/dash/dashactive.cfm"
+- "/howto/quickreference/dash/dashgobbledygook.cfm"
 ---
 
 _Mary Dash, Chief of the Congressional Correspondence and Quality Review Branch of the Internal Revenue Service, wrote these excellent writing tips._

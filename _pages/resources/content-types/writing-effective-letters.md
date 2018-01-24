@@ -1,9 +1,9 @@
 ---
 title: Writing Effective Letters
-permalink: /resources/content-types/writing-effective-letters/
+permalink: "/resources/content-types/writing-effective-letters/"
 sidenav: resources
 redirect_from:
-  - /howto/guidelines/letters.cfm
+- "/howto/guidelines/letters.cfm"
 ---
 
 Use this guidance as an adjunct to the _[Federal Plain Language Guidelines]({{ site.baseurl }}{% link _pages/guidelines/index.md %})._

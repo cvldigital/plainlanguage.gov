@@ -2,28 +2,28 @@
 title: Place the main idea before exceptions and conditions
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeExceptLast.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeExceptLast.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 166-167
-  - author: 'Garner, Bryan A.'
-    title: Guidelines for Drafting and Editing Court Rules
-    date: 1996
-    publisher: 'Administrative Office of the US Courts, Washington, DC'
-    page: pp. 5-9
-  - author: Office of the Federal Register
-    title: Drafting Legal Documents
-    link: 'https://www.archives.gov/federal-register/write/legal-docs'
-    date: 1998
-    page: § 7
-  - author: 'Wydick, Richard'
-    title: 'Plain English for Lawyers, 5th edition'
-    date: 2005
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: pp. 46-47
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 166-167
+- author: Garner, Bryan A.
+  title: Guidelines for Drafting and Editing Court Rules
+  date: 1996
+  publisher: Administrative Office of the US Courts, Washington, DC
+  page: pp. 5-9
+- author: Office of the Federal Register
+  title: Drafting Legal Documents
+  link: https://www.archives.gov/federal-register/write/legal-docs
+  date: 1998
+  page: "§ 7"
+- author: Wydick, Richard
+  title: Plain English for Lawyers, 5th edition
+  date: 2005
+  publisher: Carolina Academic Press, Durham, NC
+  page: pp. 46-47
 ---
 
 Start with your main idea – not an exception.

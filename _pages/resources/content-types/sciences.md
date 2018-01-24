@@ -1,10 +1,10 @@
 ---
 title: Plain Language in the Sciences
-permalink: /resources/content-types/sciences/
+permalink: "/resources/content-types/sciences/"
 sidenav: resources
 redirect_from:
-  - /usingPL/sciences/
-  - /usingPL/sciences/index.cfm
+- "/usingPL/sciences/"
+- "/usingPL/sciences/index.cfm"
 ---
 
 A recent National Science Foundation study shows that:

@@ -1,9 +1,8 @@
 ---
 title: Medicaid Open Door Initiative
+permalink: "/examples/before-and-after/medicaid-initiative/"
 author: Centers for Medicare & Medicaid Services
-permalink: /examples/before-and-after/medicaid-initiative/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

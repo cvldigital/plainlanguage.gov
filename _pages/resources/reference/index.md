@@ -1,10 +1,10 @@
 ---
 title: Writing and reference tools
-permalink: /resources/reference/
+permalink: "/resources/reference/"
 sidenav: resources
 redirect_from:
-  - /howto/dictionaries/
-  - /howto/dictionaries/index.cfm
+- "/howto/dictionaries/"
+- "/howto/dictionaries/index.cfm"
 ---
 
 There are millions of words in the English language. Many you have never heard before, and many you may have heard but don't know their correct definition, spelling, or pronunciation.

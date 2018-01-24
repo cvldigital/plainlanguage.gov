@@ -1,6 +1,7 @@
 ---
 title: Articles
-permalink: /resources/articles/
+permalink: "/resources/articles/"
 sidenav: resources
 resources: articles
 ---
+

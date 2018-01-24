@@ -1,11 +1,10 @@
 ---
 title: Monthly Due Date
+permalink: "/examples/before-and-after/monthly-due-date/"
 author: Bureau of Land Management
-permalink: /examples/before-and-after/monthly-due-date/
 sidenav: examples
 redirect_from:
-  - /examples/before-and-after/due-date/
-
+- "/examples/before-and-after/due-date/"
 ---
 
 _This example was created for training and is not official agency text._

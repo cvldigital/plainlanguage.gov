@@ -1,9 +1,9 @@
 ---
-title: 'Security and Exchange Commission, A Plain English Handbook'
-permalink: /resources/guides/plain-english-handbook/
+title: Security and Exchange Commission, A Plain English Handbook
+permalink: "/resources/guides/plain-english-handbook/"
 sidenav: resources
 redirect_from:
-  - /whyPL/testimonials/buffet.cfm
+- "/whyPL/testimonials/buffet.cfm"
 ---
 
 _Preface by Warren E. Buffett from the SEC’s [Plain English Handbook](https://www.sec.gov/pdf/handbook.pdf), 1998_

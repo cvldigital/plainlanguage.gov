@@ -1,9 +1,9 @@
 ---
 title: Plain Language in Spoken Communication
-permalink: /resources/articles/plain-language-in-spoken-communication/
+permalink: "/resources/articles/plain-language-in-spoken-communication/"
 sidenav: resources
 redirect_from:
-  - /howto/guidelines/verbal.cfm
+- "/howto/guidelines/verbal.cfm"
 ---
 
 by Londell Buckson

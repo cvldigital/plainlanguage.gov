@@ -1,9 +1,8 @@
 ---
 title: Application for Federal Assistance
+permalink: "/examples/before-and-after/application-federal-assistance/"
 author: Department of the Interior
-permalink: /examples/before-and-after/application-federal-assistance/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

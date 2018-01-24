@@ -2,41 +2,41 @@
 title: Minimize definitions
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeDefs.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeDefs.cfm"
 sources:
-  - author: 'Cohen, Morris'
-    title: Reason and Law
-    date: 1950
-    publisher: 'The Free Press, Glencoe, IL'
-    page: p.77
-  - author: 'Dickerson, Reed'
-    title: Fundamentals of Legal Drafting
-    date: 1986
-    publisher: '2nd edition, Little, Brown and Company, Boston and Toronto'
-    page: 'pp. 137, 144'
-  - author: 'Flesch, Rudolf'
-    title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
-    date: 1979
-    publisher: 'Harper and Rowe, New York'
-    page: 'pp. 58-69, 79'
-  - author: 'Garner, Bryan A.'
-    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
-    date: 1995
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: p. 257-258
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 97-99
-  - author: 'Kimble, Joseph'
-    title: 'Lifting the Fog of Legalese, Carolina Academic Press'
-    date: 2006
-    publisher: 'Durham, NC'
-  - title: 'Office of the Federal Register, Document Drafting Handbook'
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    page: § 8.15
+- author: Cohen, Morris
+  title: Reason and Law
+  date: 1950
+  publisher: The Free Press, Glencoe, IL
+  page: p.77
+- author: Dickerson, Reed
+  title: Fundamentals of Legal Drafting
+  date: 1986
+  publisher: 2nd edition, Little, Brown and Company, Boston and Toronto
+  page: pp. 137, 144
+- author: Flesch, Rudolf
+  title: How to Write in Plain English, A Book for Lawyers and Consumers
+  date: 1979
+  publisher: Harper and Rowe, New York
+  page: pp. 58-69, 79
+- author: Garner, Bryan A.
+  title: A Dictionary of Modern Legal Usage, 2nd edition
+  date: 1995
+  publisher: Oxford University Press, Oxford and New York
+  page: p. 257-258
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 97-99
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese, Carolina Academic Press
+  date: 2006
+  publisher: Durham, NC
+- title: Office of the Federal Register, Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  page: "§ 8.15"
 ---
 
 We have one rule for dealing with definitions: **use them rarely**.

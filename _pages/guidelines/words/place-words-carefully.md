@@ -2,14 +2,14 @@
 title: Place words carefully
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeWordPlace.cfm
-  - /howto/quickreference/pops/placement.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeWordPlace.cfm"
+- "/howto/quickreference/pops/placement.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: Garner's Modern American Usage
-    date: 2003
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: pp. 566-567
+- author: Garner, Bryan A.
+  title: Garner's Modern American Usage
+  date: 2003
+  publisher: Oxford University Press, Oxford and New York
+  page: pp. 566-567
 ---
 
 Sloppy word placement can cause ambiguity. To reduce ambiguity:

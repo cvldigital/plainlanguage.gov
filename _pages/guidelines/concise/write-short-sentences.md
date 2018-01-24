@@ -2,52 +2,51 @@
 title: Write short sentences
 sidenav: guidelines
 redirect_from:
-  - /howto/quickreference/pops/short.cfm
-  - /howto/guidelines/FederalPLGuidelines/writeShortSent.cfm
-  - /howto/guidelines/FederalPLGuidelines/sentences.cfm
+- "/howto/quickreference/pops/short.cfm"
+- "/howto/guidelines/FederalPLGuidelines/writeShortSent.cfm"
+- "/howto/guidelines/FederalPLGuidelines/sentences.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 163-165
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 19-21
-  - author: 'Kimble, Joseph'
-    title: >-
-      Guiding Principles for Restyling the Federal Rules of Civil Procedure
-      (Part 1)
-    date: September 2005
-    publisher: Michigan Bar Journal
-    page: pp. 56-57
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 96
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: p. 77
-  - author: Office of the Federal Register
-    title: Document Drafting Handbook
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    page: MMR-5
-  - author: 'Redish, Janice C.'
-    title: How to Write Regulations and Other Legal Documents in Clear English
-    date: 1991
-    publisher: 'American Institutes for Research, Washington, DC'
-    page: pp. 29-32
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: p. 28
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 163-165
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 19-21
+- author: Kimble, Joseph
+  title: Guiding Principles for Restyling the Federal Rules of Civil Procedure (Part
+    1)
+  date: September 2005
+  publisher: Michigan Bar Journal
+  page: pp. 56-57
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 96
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: p. 77
+- author: Office of the Federal Register
+  title: Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  page: MMR-5
+- author: Redish, Janice C.
+  title: How to Write Regulations and Other Legal Documents in Clear English
+  date: 1991
+  publisher: American Institutes for Research, Washington, DC
+  page: pp. 29-32
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: p. 28
 ---
 
 Express only one idea in each sentence. Long, complicated sentences often mean that you aren't sure about what you want to say. Shorter sentences are also better for conveying complex information; they break the information up into smaller, easier-to-process units.

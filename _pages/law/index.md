@@ -1,14 +1,15 @@
 ---
 title: Law and requirements
-permalink: /law/
+permalink: "/law/"
 sidenav: law
-description: >-
-  The Plain Writing Act of 2010 was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use.
+description: The Plain Writing Act of 2010 was signed on October 13, 2010. The law
+  requires that federal agencies use clear government communication that the public
+  can understand and use.
 redirect_from:
-  - /plLaw/
-  - /plLaw/index.cfm
-  - /plLaw/law/
-  - /plLaw/law/index.cfm
+- "/plLaw/"
+- "/plLaw/index.cfm"
+- "/plLaw/law/"
+- "/plLaw/law/index.cfm"
 ---
 
 The [Plain Writing Act of 2010](https://www.gpo.gov/fdsys/pkg/PLAW-111publ274/content-detail.html) was signed on October 13, 2010. The law requires that federal agencies use clear government communication that the public can understand and use.

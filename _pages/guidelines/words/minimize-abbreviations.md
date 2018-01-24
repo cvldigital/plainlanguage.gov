@@ -2,23 +2,23 @@
 title: Minimize abbreviations
 sidenav: guidelines
 redirect_form:
-  - /howto/guidelines/FederalPLGuidelines/writeNoAbbrev.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeNoAbbrev.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
-    date: 1995
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: pp. 447-488
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 46-48
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 155
+- author: Garner, Bryan A.
+  title: A Dictionary of Modern Legal Usage, 2nd edition
+  date: 1995
+  publisher: Oxford University Press, Oxford and New York
+  page: pp. 447-488
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 46-48
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 155
 ---
 
 One legal scholar calls abbreviations a "menace to prose" (Kimble, 2006). Abbreviations were once intended to serve the audience by shortening long phrases. However, abbreviations have proliferated so much in government writing that they constantly require the reader to look back to earlier pages, or to consult an appendix, to puzzle out what's being said.

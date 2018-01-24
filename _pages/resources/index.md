@@ -1,16 +1,17 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: "/resources/"
 sidenav: resources
-description: >-
-  There are a variety of books, articles, videos, and journals that provide different perspectives on the value of plain language in areas as diverse as science, government regulation, and law.
+description: There are a variety of books, articles, videos, and journals that provide
+  different perspectives on the value of plain language in areas as diverse as science,
+  government regulation, and law.
 redirect_from:
-  - /resources/journals/
-  - /resources/journals/index.cfm
-  - /howto/
-  - /howto/index.cfm
-  - /howto/quickreference/
-  - /howto/quickreference/index.cfm
+- "/resources/journals/"
+- "/resources/journals/index.cfm"
+- "/howto/"
+- "/howto/index.cfm"
+- "/howto/quickreference/"
+- "/howto/quickreference/index.cfm"
 ---
 
 There are a variety of books, articles, videos, and journals that provide different perspectives on the value of plain language in areas as diverse as science, government regulation, and law. Find useful writing tips and fresh points of view from today's plain language innovators.

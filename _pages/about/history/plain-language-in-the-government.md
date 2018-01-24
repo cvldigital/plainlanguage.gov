@@ -1,11 +1,11 @@
 ---
 title: A History of Plain Language in the U.S. Government
-permalink: /about/history/plain-language-in-the-government/
+permalink: "/about/history/plain-language-in-the-government/"
 sidenav: about
-intro: Joanne Locke, formerly of HHS, gives an overview of the milestones in using plain language from the end of World War II to the early 2000s.
+intro: Joanne Locke, formerly of HHS, gives an overview of the milestones in using
+  plain language from the end of World War II to the early 2000s.
 redirect_from:
-  - /whatisPL/history/locke.cfm
-
+- "/whatisPL/history/locke.cfm"
 ---
 
 Awareness of the need for clear language isn't new in the U.S. government.

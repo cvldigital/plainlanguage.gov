@@ -1,6 +1,6 @@
 ---
 title: Online training
-permalink: /training/online-training/
+permalink: "/training/online-training/"
 sidenav: training
 ---
 

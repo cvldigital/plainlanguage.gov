@@ -1,9 +1,9 @@
 ---
 title: Historical Quotes
-permalink: /resources/quotes/historical-quotes/
+permalink: "/resources/quotes/historical-quotes/"
 sidenav: resources
 redirect_from:
-  - /resources/quotes/historical.cfm
+- "/resources/quotes/historical.cfm"
 ---
 
 Many famous writers, politicians, and others have commented over the centuries on the importance of writing clearly and briefly.

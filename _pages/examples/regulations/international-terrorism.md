@@ -1,7 +1,7 @@
 ---
-title: 'Claims for Damages Due to International Terrorism'
+title: Claims for Damages Due to International Terrorism
+permalink: "/examples/regulations/international-terrorism/"
 author: Department of Justice
-permalink: /examples/regulations/international-terrorism/
 sidenav: examples
 ---
 

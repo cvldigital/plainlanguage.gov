@@ -1,9 +1,9 @@
 ---
 title: Funny Headlines
-permalink: /resources/humor/funny-headlines/
+permalink: "/resources/humor/funny-headlines/"
 sidenav: resources
 redirect_from:
-  - /examples/humor/headlines.cfm
+- "/examples/humor/headlines.cfm"
 ---
 
 - Iraqi Head Seeks Arms

@@ -1,12 +1,12 @@
 ---
 title: History and timeline
-permalink: /about/history/
+permalink: "/about/history/"
 sidenav: about
 redirect_from:
-  - /whatisPL/govmandates/
-  - /whatisPL/govmandates/index.cfm
-  - /whatisPL/history/
-  - /whatisPL/history/index.cfm
+- "/whatisPL/govmandates/"
+- "/whatisPL/govmandates/index.cfm"
+- "/whatisPL/history/"
+- "/whatisPL/history/index.cfm"
 ---
 
 This timeline is an abbreviated and updated version of [A History of Plain Language in the Government]({{ site.baseurl }}{% link _pages/about/history/plain-language-in-the-government.md %}) by Joanne Locke.

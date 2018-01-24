@@ -1,10 +1,10 @@
 ---
-title: 'Regulation Quick-reference Card'
+title: Regulation Quick-reference Card
+permalink: "/examples/regulations/quick-reference-card/"
 author: National Oceanic and Atmosphere Administration
-permalink: /examples/regulations/quick-reference-card/
 sidenav: examples
 redirect_from:
-  - /examples/before_after/regfisheries.cfm
+- "/examples/before_after/regfisheries.cfm"
 ---
 
 Not only did the National Marine Fisheries Service improve the language of this regulation, they turned the critical points into a user-friendly quick reference card, bright yellow so it's easy to find, and laminated so it will stand up to wet conditions.

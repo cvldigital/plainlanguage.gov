@@ -1,30 +1,31 @@
 ---
 title: Follow web standards
+permalink: "/guidelines/web/"
 sidenav: guidelines
-permalink: /guidelines/web/
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/useWeb.cfm
-  - /howto/guidelines/FederalPLGuidelines/webTechniques.cfm
-  - /howto/guidelines/FederalPLGuidelines/writeWeb.cfm
+- "/howto/guidelines/FederalPLGuidelines/useWeb.cfm"
+- "/howto/guidelines/FederalPLGuidelines/webTechniques.cfm"
+- "/howto/guidelines/FederalPLGuidelines/writeWeb.cfm"
 sources:
-  - title: How Little Do Users Read?
-    link: 'https://www.nngroup.com/articles/how-little-do-users-read/'
-    publisher: Nielsen Norman Group
-  - title: Eyetracking Web Usability
-    date: 'December 14, 2009'
-    publisher: New Riders Press
-  - author: 'Nielsen, Jakob'
-    title: 'Designing Web Usability: The Practice of Simplicity (and other works)'
-    date: 1999
-    publisher: 'New Riders Publishing, Indianapolis'
-  - author: 'McGovern, Gerry'
-    title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand (and other works)'
-    date: 2006
-    publisher: A&amp;C Black
-  - author: 'Redish, Janice'
-    title: Writing Web Content that Works
-    date: 2007
-    publisher: 'Morgan Kaufmann Publishers, San Francisco'
+- title: How Little Do Users Read?
+  link: https://www.nngroup.com/articles/how-little-do-users-read/
+  publisher: Nielsen Norman Group
+- title: Eyetracking Web Usability
+  date: December 14, 2009
+  publisher: New Riders Press
+- author: Nielsen, Jakob
+  title: 'Designing Web Usability: The Practice of Simplicity (and other works)'
+  date: 1999
+  publisher: New Riders Publishing, Indianapolis
+- author: McGovern, Gerry
+  title: 'Killer Web Content: Make the Sale, Deliver the Service, Build the Brand
+    (and other works)'
+  date: 2006
+  publisher: A&amp;C Black
+- author: Redish, Janice
+  title: Writing Web Content that Works
+  date: 2007
+  publisher: Morgan Kaufmann Publishers, San Francisco
 ---
 
 To effectively communicate online, you need to follow web standards, design for reading, and repurpose print materials for the web.

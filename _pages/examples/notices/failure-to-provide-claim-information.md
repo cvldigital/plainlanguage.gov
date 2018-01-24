@@ -1,10 +1,10 @@
 ---
-title: 'Failure to Provide Claim Information'
+title: Failure to Provide Claim Information
+permalink: "/examples/notices/failure-to-provide-claim-information/"
 author: Veterans Affairs
-permalink: /examples/notices/failure-to-provide-claim-information/
 sidenav: examples
 redirect_from:
-  - /examples/government/VBA-noInfo.cfm
+- "/examples/government/VBA-noInfo.cfm"
 ---
 
 * #### Before

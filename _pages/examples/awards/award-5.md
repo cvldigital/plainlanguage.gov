@@ -1,9 +1,9 @@
 ---
 title: No Gobbledygook Award 5
-permalink: /examples/awards/award-5/
+permalink: "/examples/awards/award-5/"
 sidenav: examples
 redirect_from:
-  - /examples/award_winning/award5.cfm
+- "/examples/award_winning/award5.cfm"
 ---
 
 The White House  

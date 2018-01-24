@@ -1,9 +1,9 @@
 ---
 title: Plain Talk in Washington
-permalink: /resources/articles/plain-talk-in-washington/
+permalink: "/resources/articles/plain-talk-in-washington/"
 sidenav: resources
 redirect_from:
-  - /examples/government/WArules.cfm
+- "/examples/government/WArules.cfm"
 ---
 
 By Dana Howard Botka

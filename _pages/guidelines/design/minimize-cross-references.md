@@ -2,19 +2,19 @@
 title: Minimize cross-references
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeNoXRefs.cfm
-  - /howto/quickreference/pops/complex.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeNoXRefs.cfm"
+- "/howto/quickreference/pops/complex.cfm"
 sources:
-  - author: 'Flesch, Rudolf'
-    title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
-    date: 1979
-    publisher: 'Harper and Rowe, New York'
-    page: pp. 82-93
-  - author: Office of the Federal Register
-    title: Document Drafting Handbook
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    page: pp. 1-15
+- author: Flesch, Rudolf
+  title: How to Write in Plain English, A Book for Lawyers and Consumers
+  date: 1979
+  publisher: Harper and Rowe, New York
+  page: pp. 82-93
+- author: Office of the Federal Register
+  title: Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  page: pp. 1-15
 ---
 
 Nothing is more annoying than coming upon cross-references in reading material. Cross-references frustrate any attempt to write clearly and simply. Most users consider them a bother, and just skip over them. This can be a problem when the document is a regulation!

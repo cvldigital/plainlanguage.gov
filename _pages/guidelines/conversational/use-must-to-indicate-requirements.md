@@ -2,37 +2,37 @@
 title: Use “must” to indicate requirements
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeMust.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeMust.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 183-184
-  - author: 'Garner, Bryan A.'
-    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
-    date: 1995
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: pp. 939-942
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 105-106
-  - author: 'Garner, Bryan A.'
-    title: Shall We Abandon Shall?
-    link: 'http://www.abajournal.com/magazine/article/shall_we_abandon_shall/'
-    publisher: American Bar Association Journal
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: pp. 159-160
-  - author: 'Wydick, Richard'
-    title: 'Plain English for Lawyers, 5th edition'
-    date: 2005
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 64
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 183-184
+- author: Garner, Bryan A.
+  title: A Dictionary of Modern Legal Usage, 2nd edition
+  date: 1995
+  publisher: Oxford University Press, Oxford and New York
+  page: pp. 939-942
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 105-106
+- author: Garner, Bryan A.
+  title: Shall We Abandon Shall?
+  link: http://www.abajournal.com/magazine/article/shall_we_abandon_shall/
+  publisher: American Bar Association Journal
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: pp. 159-160
+- author: Wydick, Richard
+  title: Plain English for Lawyers, 5th edition
+  date: 2005
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 64
 ---
 
 The word "must" is the clearest way to convey to your audience that they have to do something. "Shall" is one of those officious words that has encumbered legal style writing for many years. The message that "shall" sends to the audience is, "this is deadly material." "Shall" is also obsolete. When was the last time you heard it used in everyday speech?

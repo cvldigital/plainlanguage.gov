@@ -2,8 +2,8 @@
 title: Use the present tense
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeSimpleVerb.cfm
-  - /howto/quickreference/pops/simple.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeSimpleVerb.cfm"
+- "/howto/quickreference/pops/simple.cfm"
 ---
 
 The simplest and strongest form of a verb is present tense.

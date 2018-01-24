@@ -1,9 +1,9 @@
 ---
 title: Plain writing page template
-permalink: /law/page-template/
+permalink: "/law/page-template/"
 sidenav: law
 redirect_from:
-  - /plLaw/law/agency_pl_page.cfm
+- "/plLaw/law/agency_pl_page.cfm"
 ---
 
 You can use the following template to develop your agency's own plain language page.

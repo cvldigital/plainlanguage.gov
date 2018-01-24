@@ -1,14 +1,14 @@
 ---
 title: Home
+permalink: "/"
 layout: base
-permalink: /
 redirect_from:
-  - /news/meetingrsvp.cfm
-  - /news/
-  - /news/index.cfm
-  - /news/currentEvents.cfm
-  - /index.cfm
-  - /site/contactus.cfm
+- "/news/meetingrsvp.cfm"
+- "/news/"
+- "/news/index.cfm"
+- "/news/currentEvents.cfm"
+- "/index.cfm"
+- "/site/contactus.cfm"
 ---
 
 <section class="usa-section home-hero bg-tan" markdown="0">

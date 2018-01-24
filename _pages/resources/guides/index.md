@@ -1,10 +1,10 @@
 ---
 title: Style guides
-permalink: /resources/guides/
+permalink: "/resources/guides/"
 sidenav: resources
 redirect_from:
-  - /howto/guidelines/
-  - /howto/guidelines/index.cfm
+- "/howto/guidelines/"
+- "/howto/guidelines/index.cfm"
 ---
 
 ## Federal government

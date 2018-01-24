@@ -1,27 +1,27 @@
 ---
 title: Be concise
+permalink: "/guidelines/concise/"
 sidenav: guidelines
-permalink: /guidelines/concise/
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeOmitUnnecc.cfm
-  - /howto/quickreference/pops/excess.cfm
-  - /howto/guidelines/FederalPLGuidelines/otherWords.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeOmitUnnecc.cfm"
+- "/howto/quickreference/pops/excess.cfm"
+- "/howto/guidelines/FederalPLGuidelines/otherWords.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: 'pp. 43, 40, 34'
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    publisher: 'Carolina Academic Press Durham, NC'
-    date: 2006
-    page: 'pp. 93, 170'
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: p. 25
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 43, 40, 34
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  publisher: Carolina Academic Press Durham, NC
+  date: 2006
+  page: pp. 93, 170
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: p. 25
 ---
 
 Wordy, dense construction is one of the biggest problems in government writing. Nothing is more confusing to the user than long, complex sentences containing multiple phrases and clauses. Unnecessary words come in all shapes and sizes, and it's difficult to put them into distinct categories. To address the problem, become more critical of your own writing, and consider whether you need every word. Challenge every word—do you need it?

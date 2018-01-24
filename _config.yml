@@ -1,79 +1,76 @@
-# Site settings
+---
 title: plainlanguage.gov
-description: Plain language makes it easier for the public to read, understand, and use government communications.
+timezone: UTC
+collections:
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: assets/uswds
+  values:
+    skip_index: true
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: docs
+- scope:
+    path: _pages/guidelines
+  values:
+    pagination: true
+description: Plain language makes it easier for the public to read, understand, and
+  use government communications.
 email: info@plainlanguage.gov
-image: /assets/img/twitter_profile.png
+image: "/assets/img/twitter_profile.png"
 facebook: https://www.facebook.com/plainlanguagegov-174397429237337/
 twitter: https://twitter.com/govplainlang/
 github:
   organization: GSA
   repository: plainlanguage.gov
   default_branch: master
-
 sitewide_notification:
   display: false
   heading: Information Status
-  text: >-
-    If the federal government shuts down, we will not respond to email or to training requests.
-
+  text: If the federal government shuts down, we will not respond to email or to training
+    requests.
 theme: uswds-jekyll
-
 plugins:
-  - jekyll-redirect-from
-
+- jekyll-redirect-from
 exclude:
-  - CONTRIBUTING.md
-  - circle.yml
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - node_modules
-  - package.json
-  - package-lock.json
-  - README.md
-  - vendor
-  - webpack.config.js
-
+- CONTRIBUTING.md
+- circle.yml
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- node_modules
+- package.json
+- package-lock.json
+- README.md
+- vendor
+- webpack.config.js
 keep_files:
-  - /assets/js/build/bundle.js
-
+- "/assets/js/build/bundle.js"
 scripts:
-  - /assets/js/build/bundle.js
-  - /assets/uswds/js/uswds.min.js
-
+- "/assets/js/build/bundle.js"
+- "/assets/uswds/js/uswds.min.js"
 styles:
-  - href: /assets/css/main.css
-    media: screen, print
-
+- href: "/assets/css/main.css"
+  media: screen, print
 sass:
   load_paths:
-    - _sass
-    - node_modules
+  - _sass
+  - node_modules
   style: compressed
-
-defaults:
-  - scope:
-      path: "assets/uswds"
-    values:
-      skip_index: true
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "docs"
-  - scope:
-      path: "_pages/guidelines"
-    values:
-      pagination: true
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
 kramdown:
   parse_block_html: true
-
 jekyll_pages_api_search:
   skip_index: false
   index_fields:
@@ -83,5 +80,5 @@ jekyll_pages_api_search:
       boost: 10
     url:
       boost: 5
-    body:
+    body: 
   results_page_title: Search results

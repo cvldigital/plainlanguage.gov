@@ -1,10 +1,10 @@
 ---
-title: 'Airworthiness Directives'
+title: Airworthiness Directives
+permalink: "/examples/regulations/airworthiness/"
 author: Federal Aviation Administration
-permalink: /examples/regulations/airworthiness/
 sidenav: examples
 redirect_from:
-  - /examples/before_after/airworthydirective.cfm
+- "/examples/before_after/airworthydirective.cfm"
 ---
 
 _Note the confusing organization in the "before" version. (Additional material not in old version of regulation omitted.)_

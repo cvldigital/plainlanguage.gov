@@ -1,9 +1,9 @@
 ---
 title: Checklist for Plain Language
-permalink: /resources/checklists/checklist/
+permalink: "/resources/checklists/checklist/"
 sidenav: resources
 redirect_from:
-  - /howto/quickreference/checklist.cfm
+- "/howto/quickreference/checklist.cfm"
 ---
 
 Use this checklist to see if your document meets plain language standards. (If you're writing for the web, here's the [web checklist]({{ site.baseurl }}{% link _pages/resources/checklists/web-checklist.md %}).)

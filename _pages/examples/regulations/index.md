@@ -1,10 +1,10 @@
 ---
 title: Regulations
-permalink: /examples/regulations/
+permalink: "/examples/regulations/"
 sidenav: examples
 layout: list
 redirect_from:
-  - /examples/government/radio.cfm
+- "/examples/government/radio.cfm"
 ---
 
 - [State Statutes](http://www.languageandlaw.org/TEXTS/STATS/PLAINENG.HTM)

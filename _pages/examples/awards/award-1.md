@@ -1,9 +1,8 @@
 ---
 title: No Gobbledygook Award 1
+permalink: "/examples/awards/award-1/"
 author: Occupational Safety and Health Administration
-permalink: /examples/awards/award-1/
 sidenav: examples
-
 ---
 
 The White House  

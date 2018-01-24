@@ -1,10 +1,10 @@
 ---
 title: Regulations
-permalink: /about/history/regulations/
+permalink: "/about/history/regulations/"
 sidenav: about
 redirect_from:
-  - /populartopics/regulations/
-  - /populartopics/regulations/index.cfm
+- "/populartopics/regulations/"
+- "/populartopics/regulations/index.cfm"
 ---
 
 Regulations tell Americans how to get benefits, how to meet safety standards, and how to pay their taxes. There are now over 200,000 pages in the Code of Federal Regulations.

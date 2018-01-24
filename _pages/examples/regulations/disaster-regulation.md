@@ -1,7 +1,7 @@
 ---
-title: 'Disaster Regulation'
+title: Disaster Regulation
+permalink: "/examples/regulations/disaster-regulation/"
 author: Federal Emergency Management Administration
-permalink: /examples/regulations/disaster-regulation/
 sidenav: examples
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 'Student Loans'
+title: Student Loans
+permalink: "/examples/regulations/student-loans/"
 author: Department of Education
-permalink: /examples/regulations/student-loans/
 sidenav: examples
 ---
 

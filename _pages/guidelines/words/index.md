@@ -1,21 +1,21 @@
 ---
 title: Choose your words carefully
+permalink: "/guidelines/words/"
 sidenav: guidelines
-permalink: /guidelines/words/
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/words.cfm
-  - /howto/guidelines/FederalPLGuidelines/write.cfm
-  - /howto/guidelines/FederalPLGuidelines/writeShort.cfm
-  - /howto/quickreference/pops/familiar.cfm
+- "/howto/guidelines/FederalPLGuidelines/words.cfm"
+- "/howto/guidelines/FederalPLGuidelines/write.cfm"
+- "/howto/guidelines/FederalPLGuidelines/writeShort.cfm"
+- "/howto/quickreference/pops/familiar.cfm"
 sources:
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: 'pp. 11, 165-174'
-  - author: 'McGinty, Kathy'
-    title: Nine Easy Steps to Longer Sentences
-    link: 'http://www.plainlanguage.gov/examples/humor/9easysteps.cfm'
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: pp. 11, 165-174
+- author: McGinty, Kathy
+  title: Nine Easy Steps to Longer Sentences
+  link: http://www.plainlanguage.gov/examples/humor/9easysteps.cfm
 ---
 
 Words matter. They are the most basic building blocks of written and spoken communication. Don't complicate things by using jargon, technical terms, or abbreviations that people won't understand. Choose your words carefully and be consistent in your writing style.

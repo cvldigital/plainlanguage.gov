@@ -1,13 +1,13 @@
 ---
 title: Tips for starting a plain language program
-permalink: /training/tips-for-trainers/
+permalink: "/training/tips-for-trainers/"
 sidenav: training
 redirect_from:
-  - /howto/tipsforstarting/
-  - /howto/tipsforstarting/index.cfm
-  - /resources/for_trainers/details.cfm
-  - /resources/for_trainers/
-  - /resources/for_trainers/index.cfm
+- "/howto/tipsforstarting/"
+- "/howto/tipsforstarting/index.cfm"
+- "/resources/for_trainers/details.cfm"
+- "/resources/for_trainers/"
+- "/resources/for_trainers/index.cfm"
 ---
 
 Starting a plain language program can be challenging. But like most challenges, the reward will far outweigh the effort. The reward in this case is clear communication—an asset for any organization.

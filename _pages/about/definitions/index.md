@@ -1,10 +1,10 @@
 ---
 title: What is plain language?
-permalink: /about/definitions/
+permalink: "/about/definitions/"
 sidenav: about
 redirect_from:
-  - /whatisPL/
-  - /whatisPL/index.cfm
+- "/whatisPL/"
+- "/whatisPL/index.cfm"
 ---
 
 **Plain language** (also called plain writing or plain English) is communication your audience can understand the first time they read or hear it.

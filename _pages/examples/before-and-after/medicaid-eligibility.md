@@ -1,9 +1,8 @@
 ---
 title: Medicaid Eligibility
+permalink: "/examples/before-and-after/medicaid-eligibility/"
 author: Centers for Medicare & Medicaid Services
-permalink: /examples/before-and-after/medicaid-eligibility/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

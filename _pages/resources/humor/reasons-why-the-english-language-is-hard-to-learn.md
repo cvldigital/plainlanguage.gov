@@ -1,9 +1,9 @@
 ---
 title: Reasons Why the English Language is Hard to Learn
-permalink: /resources/humor/why-english-is-hard-to-learn/
+permalink: "/resources/humor/why-english-is-hard-to-learn/"
 sidenav: resources
 redirect_from:
-  - /examples/humor/englishishard.cfm
+- "/examples/humor/englishishard.cfm"
 ---
 
 1. The bandage was wound around the wound.

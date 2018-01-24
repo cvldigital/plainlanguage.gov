@@ -1,10 +1,10 @@
 ---
 title: Car Safety
+permalink: "/examples/before-and-after/car-safety/"
 author: National Highway Traffic Safety Administration
-permalink: /examples/before-and-after/car-safety/
 sidenav: examples
 redirect_from:
-  - /examples/before_after/carsafety.cfm
+- "/examples/before_after/carsafety.cfm"
 ---
 
 Sometimes a picture is worth a thousand words. Here's an example of how the plain language concept, applied visually, can convey important safety information more effectively than words.

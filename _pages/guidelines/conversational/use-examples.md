@@ -2,13 +2,13 @@
 title: Use examples
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeExamples.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeExamples.cfm"
 sources:
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 45-46.
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 45-46.
 ---
 
 Examples help you clarify complex concepts, even in regulations. They are an ideal way to help your readers. In spoken English, when you ask for clarification of something, people often respond by giving you an example. Good examples can substitute for long explanations. The more complex the concept you are writing about, the more you should consider using an example. By giving your audience an example that's relevant to their situation, you help them relate to your writing.

@@ -2,33 +2,33 @@
 title: Make it easy to follow
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/orgAud.cfm
+- "/howto/guidelines/FederalPLGuidelines/orgAud.cfm"
 sources:
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 70 (C)
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 3-5
-  - author: Office of the Federal Register
-    title: Document Drafting Handbook
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    page: §1-23
-  - author: 'Redish, Janice C.'
-    title: How to Write Regulations and Other Legal Documents in Clear English
-    date: 1991
-    publisher: 'American Institutes for Research, Washington, DC'
-    page: pp. 12-21
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: p. 15
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 70 (C)
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 3-5
+- author: Office of the Federal Register
+  title: Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  page: "§1-23"
+- author: Redish, Janice C.
+  title: How to Write Regulations and Other Legal Documents in Clear English
+  date: 1991
+  publisher: American Institutes for Research, Washington, DC
+  page: pp. 12-21
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: p. 15
 ---
 
 People read government websites and documents to get answers. They want to know how to do something or what happens if they don't do something—and they want to gain this knowledge quickly. Organize your writing so it's easy to follow along.

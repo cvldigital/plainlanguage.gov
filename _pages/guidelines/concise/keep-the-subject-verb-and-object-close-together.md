@@ -1,29 +1,29 @@
 ---
-title: 'Keep the subject, verb, and object close together'
+title: Keep the subject, verb, and object close together
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeProximity.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeProximity.cfm"
 sidenav: guidelines
 sources:
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: 'pp. 23-4, 102'
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 77-78
-  - author: Office of the Federal Register
-    title: Document Drafting Handbook
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    publisher: MMR-6
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: p. 32
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 23-4, 102
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 77-78
+- author: Office of the Federal Register
+  title: Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  publisher: MMR-6
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: p. 32
 ---
 
 The natural word order of an English sentence is subject-verb-object. This is how you first learned to write sentences, and it's still the best way. When you put modifiers, phrases, or clauses between two or all three of these essential parts, you make it harder for the user to understand you.

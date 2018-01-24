@@ -2,30 +2,30 @@
 title: Avoid jargon
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/avoidFormal.cfm
-  - /howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm
+- "/howto/guidelines/FederalPLGuidelines/avoidFormal.cfm"
+- "/howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing_, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 188-191
-  - author: 'Garner, Bryan A.'
-    title: Garner's Modern American Usage
-    date: 2003
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: pp. 472-473
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: pp.173-174
-  - title: 'Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler'
-    link: 'http://www.contentini.com/writing-better-tips/'
-  - author: 'Redish, Janice C.'
-    title: Writing Web Content that Works
-    date: 2007
-    publisher: 'Morgan Kaufmann Publishers, San Francisco'
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing_, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 188-191
+- author: Garner, Bryan A.
+  title: Garner's Modern American Usage
+  date: 2003
+  publisher: Oxford University Press, Oxford and New York
+  page: pp. 472-473
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: pp.173-174
+- title: 'Writing Better: Tips for Avoiding Cliches, Jargon and Other Filler'
+  link: http://www.contentini.com/writing-better-tips/
+- author: Redish, Janice C.
+  title: Writing Web Content that Works
+  date: 2007
+  publisher: Morgan Kaufmann Publishers, San Francisco
 ---
 
 Jargon is unnecessarily complicated used to impress, rather than to inform, your audience.

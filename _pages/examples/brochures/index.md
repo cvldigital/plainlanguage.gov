@@ -1,6 +1,6 @@
 ---
 title: Reports and brochures
-permalink: /examples/brochures/
+permalink: "/examples/brochures/"
 sidenav: examples
 layout: list
 ---

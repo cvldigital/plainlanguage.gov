@@ -1,6 +1,6 @@
 ---
 title: Checklists and handouts
-permalink: /resources/checklists/
+permalink: "/resources/checklists/"
 sidenav: resources
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: No Gobbledygook Award 10
-permalink: /examples/awards/award-10/
+permalink: "/examples/awards/award-10/"
 sidenav: examples
-
 ---
 
 The White House  

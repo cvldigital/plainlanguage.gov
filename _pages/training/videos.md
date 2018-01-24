@@ -1,9 +1,9 @@
 ---
 title: Videos
-permalink: /training/videos/
+permalink: "/training/videos/"
 sidenav: training
 redirect_from:
-  - /media/download_files.cfm
+- "/media/download_files.cfm"
 ---
 
 ## Featured video

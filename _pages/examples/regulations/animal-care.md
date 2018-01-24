@@ -1,7 +1,7 @@
 ---
-title: 'Requirements for Dealing with Animal Care'
+title: Requirements for Dealing with Animal Care
+permalink: "/examples/regulations/animal-care/"
 author: Animal and Plant Health Information Service
-permalink: /examples/regulations/animal-care/
 sidenav: examples
 ---
 

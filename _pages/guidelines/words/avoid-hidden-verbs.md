@@ -2,33 +2,32 @@
 title: Avoid hidden verbs
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/bigdoc/writenoverbnouns.cfm
-  - /howto/wordsuggestions/hiddenverbs.cfm
-  - /howto/quickreference/pops/base.cfm
+- "/howto/guidelines/bigdoc/writenoverbnouns.cfm"
+- "/howto/wordsuggestions/hiddenverbs.cfm"
+- "/howto/quickreference/pops/base.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 176-178
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: p. 38 (14.)
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 71 (D.4)
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Securities and Exchange Commission, Washington, DC'
-    page: p. 21
-  - author: 'Wright, Nick'
-    title: Hidden Verbs
-
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 176-178
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: p. 38 (14.)
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 71 (D.4)
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Securities and Exchange Commission, Washington, DC
+  page: p. 21
+- author: Wright, Nick
+  title: Hidden Verbs
 ---
 
 Use the strongest, most direct form of the verb possible.

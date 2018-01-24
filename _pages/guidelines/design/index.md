@@ -1,16 +1,16 @@
 ---
 title: Design for reading
+permalink: "/guidelines/design/"
 sidenav: guidelines
-permalink: /guidelines/design/
 redirect_from:
-  - /usingPL/government/guidelines.cfm
-  - /howto/guidelines/FederalPLGuidelines/otherAids.cfm
-  - /howto/guidelines/FederalPLGuidelines/writeDesign.cfm
+- "/usingPL/government/guidelines.cfm"
+- "/howto/guidelines/FederalPLGuidelines/otherAids.cfm"
+- "/howto/guidelines/FederalPLGuidelines/writeDesign.cfm"
 sources:
-  - author: 'Schriver, Karen'
-    title: 'Dynamics in Document Design: Creating Text for Readers'
-    date: 1996
-    publisher: 'John Wiley and Sons, Hoboken, NJ'
+- author: Schriver, Karen
+  title: 'Dynamics in Document Design: Creating Text for Readers'
+  date: 1996
+  publisher: John Wiley and Sons, Hoboken, NJ
 ---
 
 We want our writing to help people get information, comply with requirements, and apply for benefits with the least possible burden. Dense, cluttered writing deters people from taking the time to read.

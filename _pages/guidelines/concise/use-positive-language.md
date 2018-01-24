@@ -2,28 +2,28 @@
 title: Use positive language
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeNo2Negs.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeNo2Negs.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing_, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 178-180
-  - author: 'Flesch, Rudolf'
-    title: 'How to Write in Plain English, A Book for Lawyers and Consumers'
-    date: 1979
-    publisher: 'Harper and Rowe, New York'
-    page: p. 95
-  - author: 'Garner, Bryan A.'
-    title: Guidelines for Drafting and Editing Court Rules
-    date: 1996
-    publisher: 'Administrative Office of the US Courts, Washington, DC'
-    page: pp. 30-31
-  - author: 'Wydick, Richard'
-    title: 'Plain English for Lawyers_, 5th edition'
-    date: 2005
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: pp. 75-76
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing_, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 178-180
+- author: Flesch, Rudolf
+  title: How to Write in Plain English, A Book for Lawyers and Consumers
+  date: 1979
+  publisher: Harper and Rowe, New York
+  page: p. 95
+- author: Garner, Bryan A.
+  title: Guidelines for Drafting and Editing Court Rules
+  date: 1996
+  publisher: Administrative Office of the US Courts, Washington, DC
+  page: pp. 30-31
+- author: Wydick, Richard
+  title: Plain English for Lawyers_, 5th edition
+  date: 2005
+  publisher: Carolina Academic Press, Durham, NC
+  page: pp. 75-76
 ---
 
 We're accustomed to thinking and speaking positively. When we write in the negative, we place another stumbling block in audience's way and make it more difficult for them to understand us. When you're going to meet a friend at the airport, do you say, "If you fail to arrive by 5:00, I cannot pick you up," or do you say, "You have to arrive by 5:00 if you want me to pick you up?"

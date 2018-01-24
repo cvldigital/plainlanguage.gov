@@ -1,9 +1,8 @@
 ---
 title: Register a Pesticide
+permalink: "/examples/before-and-after/register-pesticide/"
 author: Environmental Protection Agency
-permalink: /examples/before-and-after/register-pesticide/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

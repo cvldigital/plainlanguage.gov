@@ -2,13 +2,13 @@
 title: Use transition words
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeTransitions.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeTransitions.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 67-71
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 67-71
 ---
 
 A topic sentence may provide a transition from one paragraph to another. But a transition word or phrase (usually in the topic sentence) clearly tells the audience whether the paragraph expands on the paragraph before, contrasts with it, or takes a completely different direction.

@@ -1,10 +1,10 @@
 ---
-title: 'Change in Enrollment Status'
+title: Change in Enrollment Status
+permalink: "/examples/notices/change-in-enrollment-status/"
 author: Veterans Affairs
-permalink: /examples/notices/change-in-enrollment-status/
 sidenav: examples
 redirect_from:
-  - /examples/government/VBA-change.cfm
+- "/examples/government/VBA-change.cfm"
 ---
 
 <div class="example-container">

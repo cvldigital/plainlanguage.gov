@@ -1,7 +1,7 @@
 ---
-title: 'Regulatory Preambles'
+title: Regulatory Preambles
+permalink: "/examples/regulations/regulatory-preambles/"
 author: Department of the Interior
-permalink: /examples/regulations/regulatory-preambles/
 sidenav: examples
 ---
 

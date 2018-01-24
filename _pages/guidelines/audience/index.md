@@ -1,22 +1,22 @@
 ---
 title: Write for your audience
+permalink: "/guidelines/audience/"
 sidenav: guidelines
-permalink: /guidelines/audience/
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/think.cfm
-  - /howto/guidelines/FederalPLGuidelines/audId.cfm
-  - /howto/quickreference/pops/averageReader.cfm
+- "/howto/guidelines/FederalPLGuidelines/think.cfm"
+- "/howto/guidelines/FederalPLGuidelines/audId.cfm"
+- "/howto/quickreference/pops/averageReader.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 93-96
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: p. 9
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 93-96
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: p. 9
 ---
 
 One of the most popular plain language myths is that you have to "dumb down" your content so that everyone can read it. That's not true.

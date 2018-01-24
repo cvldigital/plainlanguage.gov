@@ -1,9 +1,8 @@
 ---
 title: Water Resources
+permalink: "/examples/before-and-after/water-resources/"
 author: Environmental Protection Agency
-permalink: /examples/before-and-after/water-resources/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

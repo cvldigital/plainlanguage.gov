@@ -1,9 +1,9 @@
 ---
-title: 'Keep It Jargon-free'
-permalink: /resources/articles/keep-it-jargon-free/
+title: Keep It Jargon-free
+permalink: "/resources/articles/keep-it-jargon-free/"
 sidenav: resources
 redirect_from:
-  - /howto/wordsuggestions/jargonfree.cfm
+- "/howto/wordsuggestions/jargonfree.cfm"
 ---
 
 By Nick Wright

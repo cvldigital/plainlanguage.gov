@@ -1,7 +1,7 @@
 ---
-title: 'Disaster Unemployment Assistance'
+title: Disaster Unemployment Assistance
+permalink: "/examples/regulations/disaster-assistance/"
 author: Department of Labor
-permalink: /examples/regulations/disaster-assistance/
 sidenav: examples
 ---
 

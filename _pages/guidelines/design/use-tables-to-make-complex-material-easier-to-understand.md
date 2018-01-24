@@ -2,28 +2,28 @@
 title: Use tables to make complex material easier to understand
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeTables.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeTables.cfm"
 sources:
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 70(B)
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 39-44
-  - author: Office of the Federal Register
-    title: Document Drafting Handbook
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    page: MMR 4
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: pp. 49-52
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 70(B)
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 39-44
+- author: Office of the Federal Register
+  title: Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  page: MMR 4
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: pp. 49-52
 ---
 
 You can shorten and clarify complex material by [using lists]({{ site.baseurl }}/guidelines/organize/use-lists/) and tables. And these features give your document more white space, making it more appealing to the reader.

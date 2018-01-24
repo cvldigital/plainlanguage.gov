@@ -1,11 +1,11 @@
 ---
-title: 'Model Preamble for a Proposed Rule'
+title: Model Preamble for a Proposed Rule
+permalink: "/examples/regulations/model-preamble/"
 author: Bureau of Land Management
-permalink: /examples/regulations/model-preamble/
 archived: true
 sidenav: examples
 redirect_from:
-  - /examples/government/BLM-model.cfm
+- "/examples/government/BLM-model.cfm"
 ---
 
 Here's a [practical example]({{ site.baseurl }}/examples/regulations/model-preamble-example/) from this model.

@@ -1,10 +1,10 @@
 ---
 title: Plain Language in Finance
-permalink: /resources/content-types/finance/
+permalink: "/resources/content-types/finance/"
 sidenav: resources
 redirect_from:
-  - /populartopics/financial/
-  - /populartopics/financial/index.cfm
+- "/populartopics/financial/"
+- "/populartopics/financial/index.cfm"
 ---
 
 The battle for clarity continues at the Securities and Exchange Commission. Just do a search for "plain English" on their website. You'll get over 600 hits.

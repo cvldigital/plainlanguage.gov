@@ -1,10 +1,10 @@
 ---
-title: 'Adoption by the House of Delegates'
+title: Adoption by the House of Delegates
+permalink: "/about/history/american-bar-association/"
 author: American Bar Association
-permalink: /about/history/american-bar-association/
 sidenav: about
 redirect_from:
-  - /populartopics/regulations/aba.cfm
+- "/populartopics/regulations/aba.cfm"
 ---
 
 August 9–10, 1999

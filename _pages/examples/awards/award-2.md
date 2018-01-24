@@ -1,9 +1,8 @@
 ---
 title: No Gobbledygook Award 2
+permalink: "/examples/awards/award-2/"
 author: Bureau of Land Management
-permalink: /examples/awards/award-2/
 sidenav: examples
-
 ---
 
 The White House  

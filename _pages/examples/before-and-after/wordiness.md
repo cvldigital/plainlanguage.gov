@@ -1,9 +1,9 @@
 ---
 title: Wordiness Made Spare
-permalink: /examples/before-and-after/wordiness/
+permalink: "/examples/before-and-after/wordiness/"
 sidenav: examples
 redirect_from:
-  - /examples/before_after/wordiness.cfm
+- "/examples/before_after/wordiness.cfm"
 ---
 
 Here are some examples of how using plain language can help you say what you mean without extra word clutter.

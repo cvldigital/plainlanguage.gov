@@ -1,12 +1,12 @@
 ---
 title: Information Security Program Handbook
+permalink: "/examples/handbooks/army-regulations/"
 author: Department of the Army
-permalink: /examples/handbooks/army-regulations/
 sidenav: examples
 redirect_from:
-  - /examples/before_after/govregarmy.cfm
-intro: This rewritten version of an Army Information Security manual makes good use of subsections and white space and eliminates irrelevant information.
-
+- "/examples/before_after/govregarmy.cfm"
+intro: This rewritten version of an Army Information Security manual makes good use
+  of subsections and white space and eliminates irrelevant information.
 ---
 
 ## Methods of Transmission or Transportation: 7-301\. Secret Information.

@@ -1,9 +1,9 @@
 ---
 title: Revisiting Plain Language
-permalink: /resources/articles/revisiting-plain-language/
+permalink: "/resources/articles/revisiting-plain-language/"
 sidenav: resources
 redirect_from:
-  - /whatisPL/history/mazur.cfm
+- "/whatisPL/history/mazur.cfm"
 ---
 
 #### Reprinted from the May 2000, Vol. 47, No. 2, issue of _Technical Communication_ with permission of STC

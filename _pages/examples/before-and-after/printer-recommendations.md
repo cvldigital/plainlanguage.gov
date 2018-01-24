@@ -1,7 +1,7 @@
 ---
 title: Printer Recommendations
+permalink: "/examples/before-and-after/printer-recommendations/"
 author: Department of the Interior
-permalink: /examples/before-and-after/printer-recommendations/
 sidenav: examples
 ---
 

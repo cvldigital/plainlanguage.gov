@@ -1,6 +1,6 @@
 ---
 title: Letters and notices
-permalink: /examples/notices/
+permalink: "/examples/notices/"
 sidenav: examples
 layout: list
 ---

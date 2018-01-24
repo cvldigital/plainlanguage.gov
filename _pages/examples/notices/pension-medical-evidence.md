@@ -1,10 +1,10 @@
 ---
-title: 'Pension Medical Evidence'
+title: Pension Medical Evidence
+permalink: "/examples/notices/pension-medical-evidence/"
 author: Veterans Affairs
-permalink: /examples/notices/pension-medical-evidence/
 sidenav: examples
 redirect_from:
-  - /examples/government/VBA-pension.cfm
+- "/examples/government/VBA-pension.cfm"
 ---
 
 <div class="example-container">

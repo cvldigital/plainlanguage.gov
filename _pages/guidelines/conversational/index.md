@@ -1,9 +1,9 @@
 ---
 title: Keep it conversational
+permalink: "/guidelines/conversational/"
 sidenav: guidelines
-permalink: /guidelines/conversational/
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/verbs.cfm
+- "/howto/guidelines/FederalPLGuidelines/verbs.cfm"
 ---
 
 Verbs are the fuel of writing. They give your sentences power and direction. They enliven your writing and make it more interesting.

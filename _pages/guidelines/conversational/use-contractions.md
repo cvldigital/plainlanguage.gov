@@ -2,23 +2,23 @@
 title: Use contractions
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeContract.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeContract.cfm"
 sources:
-  - author: 'Danielson, Wayne A. and Dominic L. Larosa'
-    title: 'A New Readability Formula Based on the Stylistic Age of Novels, 33'
-    date: 1989
-    publisher: Journal of Reading
-    page: 'pp. 194, 196.'
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 49-50
-  - author: 'Garner, Bryan A.'
-    title: The Elements of Legal Style
-    date: 2002
-    publisher: 'Oxford Univ. Press, Oxford and New York'
-    page: pp. 81-2
+- author: Danielson, Wayne A. and Dominic L. Larosa
+  title: A New Readability Formula Based on the Stylistic Age of Novels, 33
+  date: 1989
+  publisher: Journal of Reading
+  page: pp. 194, 196.
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 49-50
+- author: Garner, Bryan A.
+  title: The Elements of Legal Style
+  date: 2002
+  publisher: Oxford Univ. Press, Oxford and New York
+  page: pp. 81-2
 ---
 
 While many legal authorities say that contractions don't belong in legal writing, Bryan Garner, a leading authority on legal writing, advocates their use as a way to make legal writing, including opinions and rules, less stuffy and more natural. Contractions make your writing more accessible to the user. Research shows that that they also enhance readability (Danielson and Larosa, 1989).

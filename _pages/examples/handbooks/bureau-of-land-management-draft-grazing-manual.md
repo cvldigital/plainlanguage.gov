@@ -1,10 +1,10 @@
 ---
-title: 'Draft Grazing Manual, 12/97'
+title: Draft Grazing Manual, 12/97
+permalink: "/examples/handbooks/bureau-of-land-management-draft-grazing-manual/"
 author: Bureau of Land Management
-permalink: /examples/handbooks/bureau-of-land-management-draft-grazing-manual/
 sidenav: examples
 redirect_from:
-  - /examples/government/BLM-Manual.cfm
+- "/examples/government/BLM-Manual.cfm"
 ---
 
 <div class="example-container">

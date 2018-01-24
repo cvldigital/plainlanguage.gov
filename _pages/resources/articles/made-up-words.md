@@ -1,9 +1,9 @@
 ---
-title: 'Made-up Words'
-permalink: /resources/articles/made-up-words/
+title: Made-up Words
+permalink: "/resources/articles/made-up-words/"
 sidenav: resources
 redirect_from:
-  - /howto/wordsuggestions/madeup.cfm
+- "/howto/wordsuggestions/madeup.cfm"
 ---
 
 By Nick Wright

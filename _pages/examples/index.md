@@ -1,21 +1,21 @@
 ---
 title: Examples
-permalink: /examples/
+permalink: "/examples/"
 sidenav: examples
-description: >-
-  Plain language has been around in the government for over 40 years. Here are some examples, both historical and current.
+description: Plain language has been around in the government for over 40 years. Here
+  are some examples, both historical and current.
 redirect_from:
-  - /examples/
-  - /examples/index.cfm
-  - /examples/government/
-  - /examples/government/index.cfm
-  - /populartopics/
-  - /populartopics/index.cfm
-  - /usingPL/privsector/smbus.cfm
-  - /usingPL/privsector/smbusccr.cfm
-  - /usingPL/privsector/smbussba.cfm
-  - /testexamples/
-  - /testexamples/index.cfm
+- "/examples/"
+- "/examples/index.cfm"
+- "/examples/government/"
+- "/examples/government/index.cfm"
+- "/populartopics/"
+- "/populartopics/index.cfm"
+- "/usingPL/privsector/smbus.cfm"
+- "/usingPL/privsector/smbusccr.cfm"
+- "/usingPL/privsector/smbussba.cfm"
+- "/testexamples/"
+- "/testexamples/index.cfm"
 ---
 
 Plain language has been around in the government for over 40 years. Here are some examples, both historical and current.

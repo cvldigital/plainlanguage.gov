@@ -1,9 +1,8 @@
 ---
 title: Lead in Water
+permalink: "/examples/before-and-after/lead-warning/"
 author: Environmental Protection Agency
-permalink: /examples/before-and-after/lead-warning/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

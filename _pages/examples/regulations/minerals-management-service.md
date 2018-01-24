@@ -1,10 +1,10 @@
 ---
 title: Minerals Management Service
+permalink: "/examples/regulations/minerals-management-service/"
 author: Bureau of Safety and Environmental Enforcement
-permalink: /examples/regulations/minerals-management-service/
 sidenav: examples
 redirect_from:
-  - /examples/government/MMS-CFR.cfm
+- "/examples/government/MMS-CFR.cfm"
 ---
 
 <div class="example-container">

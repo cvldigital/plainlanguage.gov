@@ -1,13 +1,12 @@
 ---
 title: Groups and organizations
-permalink: /resources/groups/
+permalink: "/resources/groups/"
 sidenav: resources
 redirect_from:
-  - /usingPL/US/
-  - /usingPL/US/index.cfm
-  - /usingPL/world/
-  - /usingPL/world/index.cfm
-
+- "/usingPL/US/"
+- "/usingPL/US/index.cfm"
+- "/usingPL/world/"
+- "/usingPL/world/index.cfm"
 ---
 
 ## In the U.S.

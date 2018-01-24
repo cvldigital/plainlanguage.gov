@@ -2,20 +2,20 @@
 title: Write short paragraphs
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeShortPara.cfm
-  - /howto/guidelines/FederalPLGuidelines/paragraphs.cfm
-  - /howto/guidelines/FederalPLGuidelines/write1Issue.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeShortPara.cfm"
+- "/howto/guidelines/FederalPLGuidelines/paragraphs.cfm"
+- "/howto/guidelines/FederalPLGuidelines/write1Issue.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 72-73
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 24-25
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 72-73
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 24-25
 ---
 
 Write short paragraphs and cover one topic per paragraph. Long paragraphs discourage users from even trying to understand your material. Short paragraphs are easier to read and understand.

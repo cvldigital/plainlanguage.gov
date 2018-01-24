@@ -1,7 +1,7 @@
 ---
-title: 'Smoking Regulation'
+title: Smoking Regulation
+permalink: "/examples/regulations/smoking-regulation/"
 author: Federal Motor Carrier Safety Administration
-permalink: /examples/regulations/smoking-regulation/
 sidenav: examples
 ---
 

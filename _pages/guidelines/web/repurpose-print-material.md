@@ -2,11 +2,11 @@
 title: Repurpose print material for the web
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/repurpose.cfm
+- "/howto/guidelines/FederalPLGuidelines/repurpose.cfm"
 sources:
-  - title: Writing Style for Print vs. Web
-    link: 'https://www.nngroup.com/articles/writing-style-for-print-vs-web/'
-    publisher: Nielsen Norman Group
+- title: Writing Style for Print vs. Web
+  link: https://www.nngroup.com/articles/writing-style-for-print-vs-web/
+  publisher: Nielsen Norman Group
 ---
 
 Don't cut and paste the text of print documents to create web content. People are more likely to leave you webpage, potentially costing you time and money, because they will not take the time to find what they are looking for.

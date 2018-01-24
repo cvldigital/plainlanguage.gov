@@ -1,6 +1,6 @@
 ---
 title: Get involved
-permalink: /about/get-involved/
+permalink: "/about/get-involved/"
 sidenav: about
 ---
 

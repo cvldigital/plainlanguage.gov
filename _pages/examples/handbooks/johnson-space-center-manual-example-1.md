@@ -1,11 +1,11 @@
 ---
 title: Johnson Space Center Manual Example 1
-permalink: /examples/handbooks/johnson-space-center-manual-example-1/
+permalink: "/examples/handbooks/johnson-space-center-manual-example-1/"
 sidenav: examples
 archived: true
 redirect_from:
-  - /examples/before_after/johnsonmanualBEFORE1.cfm
-  - /examples/before_after/johnsonmanualAFTER1.cfm
+- "/examples/before_after/johnsonmanualBEFORE1.cfm"
+- "/examples/before_after/johnsonmanualAFTER1.cfm"
 ---
 
 ## Johnson Space Center Handbook Chapter

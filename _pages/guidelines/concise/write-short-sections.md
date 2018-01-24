@@ -1,19 +1,19 @@
 ---
 title: Write short sections
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeShortSect.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeShortSect.cfm"
 sidenav: guidelines
 sources:
-  - author: 'Kimble, Joseph'
-    title: Lifting the Fog of Legalese
-    date: 2006
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: 'pp. 11, 165-174'
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 9-10
+- author: Kimble, Joseph
+  title: Lifting the Fog of Legalese
+  date: 2006
+  publisher: Carolina Academic Press, Durham, NC
+  page: pp. 11, 165-174
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 9-10
 ---
 
 Short sections break up material so it appears easier to comprehend. Long, dense sections with no white space are visually unappealing, and give the impression your writing is difficult to understand. Short sections also help you organize your thoughts more effectively.

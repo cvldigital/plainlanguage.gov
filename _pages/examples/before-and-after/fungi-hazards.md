@@ -1,9 +1,8 @@
 ---
 title: Fungi Hazards and Flood Cleanup
+permalink: "/examples/before-and-after/fungi-hazards/"
 author: Federal Emergency Management Administration
-permalink: /examples/before-and-after/fungi-hazards/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

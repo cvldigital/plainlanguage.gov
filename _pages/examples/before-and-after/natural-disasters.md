@@ -1,9 +1,8 @@
 ---
 title: Protect Yourself from Natural Disasters
+permalink: "/examples/before-and-after/natural-disasters/"
 author: Federal Emergency Management Administration
-permalink: /examples/before-and-after/natural-disasters/
 sidenav: examples
-
 ---
 
 _This example was created for training and is not official agency text._

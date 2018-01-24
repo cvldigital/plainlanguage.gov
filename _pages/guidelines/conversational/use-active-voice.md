@@ -2,49 +2,49 @@
 title: Use active voice
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/writeActive.cfm
-  - /howto/quickreference/pops/active.cfm
+- "/howto/guidelines/FederalPLGuidelines/writeActive.cfm"
+- "/howto/quickreference/pops/active.cfm"
 sources:
-  - author: 'Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.'
-    title: 'Clear & Effective Legal Writing, 4th edition'
-    date: 2007
-    publisher: 'Aspen Publishers, New York, NY'
-    page: pp. 173-175
-  - author: 'Garner, Bryan A.'
-    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
-    date: 1995
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: pp. 643-644
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: pp. 24-26
-  - author: 'Garner, Bryan A.'
-    title: Garner's Modern American Usage
-    date: 2003
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: pp. 892-893
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 73-75
-  - author: Office of the Federal Register
-    title: Document Drafting Handbook
-    link: 'http://www.archives.gov/federal-register/write/handbook/ddh.pdf'
-    date: 1998
-    page: p. MMR-5
-  - author: 'Redish, Janice C.'
-    title: How to Write Regulations and Other Legal Documents in Clear English
-    date: 1991
-    publisher: 'American Institutes for Research, Washington, DC'
-    page: p. 26
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: pp. 19–20
+- author: Charrow, Veda R., Erhardt, Myra K. and Charrow, Robert P.
+  title: Clear & Effective Legal Writing, 4th edition
+  date: 2007
+  publisher: Aspen Publishers, New York, NY
+  page: pp. 173-175
+- author: Garner, Bryan A.
+  title: A Dictionary of Modern Legal Usage, 2nd edition
+  date: 1995
+  publisher: Oxford University Press, Oxford and New York
+  page: pp. 643-644
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: pp. 24-26
+- author: Garner, Bryan A.
+  title: Garner's Modern American Usage
+  date: 2003
+  publisher: Oxford University Press, Oxford and New York
+  page: pp. 892-893
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 73-75
+- author: Office of the Federal Register
+  title: Document Drafting Handbook
+  link: http://www.archives.gov/federal-register/write/handbook/ddh.pdf
+  date: 1998
+  page: p. MMR-5
+- author: Redish, Janice C.
+  title: How to Write Regulations and Other Legal Documents in Clear English
+  date: 1991
+  publisher: American Institutes for Research, Washington, DC
+  page: p. 26
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: pp. 19–20
 ---
 
 Active voice makes it clear who is supposed to do what. It eliminates ambiguity about responsibilities. Not "It must be done," but "You must do it." Passive voice obscures who is responsible for what and is one of the biggest problems with government writing. Don't confuse passive voice with past tense.

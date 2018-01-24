@@ -2,35 +2,35 @@
 title: Address the user
 sidenav: guidelines
 redirect_from:
-  - /howto/guidelines/FederalPLGuidelines/orgOnePerson.cfm
-  - /howto/quickreference/pops/pronouns.cfm
-  - /howto/guidelines/FederalPLGuidelines/writeYou.cfm
+- "/howto/guidelines/FederalPLGuidelines/orgOnePerson.cfm"
+- "/howto/quickreference/pops/pronouns.cfm"
+- "/howto/guidelines/FederalPLGuidelines/writeYou.cfm"
 sources:
-  - author: 'Garner, Bryan A.'
-    title: 'A Dictionary of Modern Legal Usage, 2nd edition'
-    date: 1995
-    publisher: 'Oxford University Press, Oxford and New York'
-    page: p. 643
-  - author: 'Garner, Bryan A.'
-    title: Legal Writing in Plain English
-    date: 2001
-    publisher: 'University of Chicago Press, Chicago'
-    page: p. 50 and 114
-  - author: 'Murawski, Thomas A.'
-    title: Writing Readable Regulations
-    date: 1999
-    publisher: 'Carolina Academic Press Durham, NC'
-    page: pp. 33-38 and 70
-  - author: Securities and Exchange Commission
-    title: Plain English Handbook
-    date: 1998
-    publisher: 'Washington, DC'
-    page: p. 22
-  - author: 'Wydick, Richard'
-    title: 'Plain English for Lawyers, 5th edition'
-    date: 2005
-    publisher: 'Carolina Academic Press, Durham, NC'
-    page: p. 62
+- author: Garner, Bryan A.
+  title: A Dictionary of Modern Legal Usage, 2nd edition
+  date: 1995
+  publisher: Oxford University Press, Oxford and New York
+  page: p. 643
+- author: Garner, Bryan A.
+  title: Legal Writing in Plain English
+  date: 2001
+  publisher: University of Chicago Press, Chicago
+  page: p. 50 and 114
+- author: Murawski, Thomas A.
+  title: Writing Readable Regulations
+  date: 1999
+  publisher: Carolina Academic Press Durham, NC
+  page: pp. 33-38 and 70
+- author: Securities and Exchange Commission
+  title: Plain English Handbook
+  date: 1998
+  publisher: Washington, DC
+  page: p. 22
+- author: Wydick, Richard
+  title: Plain English for Lawyers, 5th edition
+  date: 2005
+  publisher: Carolina Academic Press, Durham, NC
+  page: p. 62
 ---
 
 Even though your document may affect a thousand or a million people, you are speaking to the one person who is reading it. When your writing reflects this, it's more economical and has a greater impact.
