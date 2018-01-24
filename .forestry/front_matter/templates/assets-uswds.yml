@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- name: skip_index
+  label: Skip index
+  type: boolean
+  hidden: false
+  default: true

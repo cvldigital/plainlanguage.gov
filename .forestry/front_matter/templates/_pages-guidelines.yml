@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- name: pagination
+  label: Pagination
+  type: boolean
+  hidden: false
+  default: true
